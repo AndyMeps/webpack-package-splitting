@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "3-basic-dynamic-import"
+		},
+		{
+			"path": "4-basic-dynamic-import-cleaner"
 		}
 	],
 	"settings": {}
