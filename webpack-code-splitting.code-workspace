@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "1-no-splitting"
+		},
+		{
+			"path": "2-vendor-split"
+		},
+		{
+			"path": "3-basic-dynamic-import"
+		}
+	],
+	"settings": {}
+}
