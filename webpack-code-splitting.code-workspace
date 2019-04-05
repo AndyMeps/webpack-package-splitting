@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "4-basic-dynamic-import-cleaner"
+		},
+		{
+			"path": "5-how-about-lodash"
+		},
+		{
+			"path": "6-how-about-in-jsx"
 		}
 	],
 	"settings": {}
