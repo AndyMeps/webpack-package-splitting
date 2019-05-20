@@ -1,5 +1,5 @@
 {
-  "name": "index-mixed-dynamic-and-static",
+  "name": "npm-dependency-on-component",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,8 @@
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-select": "2.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
